@@ -43,6 +43,7 @@ def main():
     # img_bytes = binascii.unhexlify(img_hex)
     # img_stream = io.BytesIO(img_bytes)
     # img = Image.open(img_hex)
+    print(vehicle)
 
 if __name__ == "__main__":
     main()
